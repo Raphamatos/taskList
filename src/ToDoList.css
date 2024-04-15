@@ -142,7 +142,7 @@ button.del:hover{
     
 }
 button.deletAll{
-    margin: 10px 25%;
+    margin: 10px 25% 75px;
     border: 1px solid var(--var-seven-color);
     background: none;
     padding: 1em;

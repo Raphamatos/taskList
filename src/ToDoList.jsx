@@ -82,6 +82,7 @@ function deletAll() {
       </div>
     </div>
   );
+  
 }
 
 export default ToDoList;
